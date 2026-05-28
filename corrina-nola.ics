@@ -135,9 +135,9 @@ UID:dinner-sun@corrina-nola-birthday
 DTSTAMP:20260528T000540Z
 DTSTART;TZID=America/Chicago:20260607T210000
 DTEND;TZID=America/Chicago:20260607T223000
-SUMMARY:Late Dinner (Mister Mao / Cochon Butcher / La Petite - TBD)
-LOCATION:TBD
-DESCRIPTION:Mister Mao kitchen closes 9 PM Sunday - book earlier if choosing it. (504) 345-2056.
+SUMMARY:Late Dinner: Cochon Butcher (time TBD)
+LOCATION:Cochon Butcher, 930 Tchoupitoulas St, New Orleans
+DESCRIPTION:Post-concert dinner option. Michelin-listed, no reservations, around the corner from home base. (504) 588-7675.
 END:VEVENT
 BEGIN:VEVENT
 UID:breakfast-mon@corrina-nola-birthday
