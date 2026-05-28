@@ -166,4 +166,22 @@ SUMMARY:Flight home
 LOCATION:Louis Armstrong New Orleans Intl (MSY)
 DESCRIPTION:Until next time\, NOLA.
 END:VEVENT
+BEGIN:VEVENT
+UID:hannah-outbound@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260606T100500
+DTEND;TZID=America/Chicago:20260606T102500
+SUMMARY:Hannah lands - Southwest 4692
+LOCATION:Louis Armstrong New Orleans Intl (MSY)
+DESCRIPTION:Hannah arrives from BWI on Southwest 4692 at 10:05 AM.
+END:VEVENT
+BEGIN:VEVENT
+UID:hannah-return@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260608T114000
+DTEND;TZID=America/Chicago:20260608T151500
+SUMMARY:Hannah flight home - Southwest 3789
+LOCATION:Louis Armstrong New Orleans Intl (MSY)
+DESCRIPTION:Hannah departs MSY at 11:40 AM and arrives BWI at 3:15 PM.
+END:VEVENT
 END:VCALENDAR
