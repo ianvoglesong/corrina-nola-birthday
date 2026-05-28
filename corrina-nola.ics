@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//corrina-nola-birthday//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Corrina's NOLA 30th
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:flight-jamie@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260606T101400
+DTEND;TZID=America/Chicago:20260606T103000
+SUMMARY:Jamie lands - AA5313
+LOCATION:Louis Armstrong New Orleans Intl (MSY)
+DESCRIPTION:Jamie arrives 10:14 AM.
+END:VEVENT
+BEGIN:VEVENT
+UID:flight-group@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260606T105400
+DTEND;TZID=America/Chicago:20260606T111500
+SUMMARY:Group lands - DL1368 (Corrina + 5)
+LOCATION:Louis Armstrong New Orleans Intl (MSY)
+DESCRIPTION:Corrina\, Rocio\, Claire\, Ian\, Thomas\, Kaleena arrive.
+END:VEVENT
+BEGIN:VEVENT
+UID:flight-julia@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260606T113600
+DTEND;TZID=America/Chicago:20260606T115000
+SUMMARY:Julia lands - B675
+LOCATION:Louis Armstrong New Orleans Intl (MSY)
+DESCRIPTION:Julia arrives 11:36 AM.
+END:VEVENT
+BEGIN:VEVENT
+UID:brunch-district@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260606T123000
+DTEND;TZID=America/Chicago:20260606T140000
+SUMMARY:Brunch: District Donuts
+LOCATION:2209 Magazine St\, New Orleans
+DESCRIPTION:One of Corrina's favorites. Donuts + sliders. (504) 570-6945.
+END:VEVENT
+BEGIN:VEVENT
+UID:checkin@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260606T160000
+DTEND;TZID=America/Chicago:20260606T163000
+SUMMARY:Airbnb Check-in - the Augustin
+LOCATION:320 Saint Joseph St\, New Orleans
+DESCRIPTION:5BR/5BA\, private pool. Hosted by Alleshia.
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-sat@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260606T200000
+DTEND;TZID=America/Chicago:20260606T213000
+SUMMARY:Dinner: Superior Seafood (res TBD)
+LOCATION:4338 St Charles Ave\, New Orleans
+DESCRIPTION:Backup: Tableau (616 St Peter\, closer to theater). Superior: (504) 293-3474.
+END:VEVENT
+BEGIN:VEVENT
+UID:divas@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260606T220000
+DTEND;TZID=America/Chicago:20260606T233000
+SUMMARY:Divas Through the Decades
+LOCATION:Toulouse Theatre\, 615 Toulouse St\, New Orleans
+DESCRIPTION:$40 pp - Splitwise. Dress code: pick your favorite decade. (504) 571-9771.
+END:VEVENT
+BEGIN:VEVENT
+UID:lorettas@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260607T090000
+DTEND;TZID=America/Chicago:20260607T094500
+SUMMARY:Loretta's Beignets (French Market Sunday)
+LOCATION:French Market\, 1100 N Peters St\, New Orleans
+DESCRIPTION:Rampart location is closed Sundays - use the French Market stall.
+END:VEVENT
+BEGIN:VEVENT
+UID:jamnola@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260607T100000
+DTEND;TZID=America/Chicago:20260607T113000
+SUMMARY:JAMNOLA Art Funhouse
+LOCATION:940 Frenchmen St\, New Orleans
+DESCRIPTION:$45 pp - Splitwise. Then back to Airbnb to get ready and say bye to Jamie.
+END:VEVENT
+BEGIN:VEVENT
+UID:dragbrunch@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260607T130000
+DTEND;TZID=America/Chicago:20260607T150000
+SUMMARY:Drag Brunch - The Country Club
+LOCATION:634 Louisa St\, New Orleans
+DESCRIPTION:Dress: show up and show out. (504) 945-0742.
+END:VEVENT
+BEGIN:VEVENT
+UID:preshall-arrive@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260607T175500
+DTEND;TZID=America/Chicago:20260607T181500
+SUMMARY:ARRIVE: Preservation Hall (doors)
+LOCATION:726 St Peter St\, New Orleans
+DESCRIPTION:Be in line by 5:55 PM. Show is 6:15-7:00. $39 pp.
+END:VEVENT
+BEGIN:VEVENT
+UID:preshall@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260607T181500
+DTEND;TZID=America/Chicago:20260607T190000
+SUMMARY:Preservation Hall Jazz Band
+LOCATION:726 St Peter St\, New Orleans
+DESCRIPTION:Half seated\, half standing - rotate. (504) 522-2841.
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-sun@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260607T210000
+DTEND;TZID=America/Chicago:20260607T223000
+SUMMARY:Late Dinner (Mister Mao / Cochon Butcher / La Petite - TBD)
+LOCATION:TBD
+DESCRIPTION:Mister Mao kitchen closes 9 PM Sunday - book earlier if choosing it. (504) 345-2056.
+END:VEVENT
+BEGIN:VEVENT
+UID:breakfast-mon@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260608T080000
+DTEND;TZID=America/Chicago:20260608T084500
+SUMMARY:Breakfast: Two Chicks Cafe
+LOCATION:920 Gravier St\, New Orleans
+DESCRIPTION:Walking distance from home base. Pack BEFORE breakfast - checkout is 11.
+END:VEVENT
+BEGIN:VEVENT
+UID:checkout@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260608T110000
+DTEND;TZID=America/Chicago:20260608T113000
+SUMMARY:Airbnb Checkout
+LOCATION:320 Saint Joseph St\, New Orleans
+DESCRIPTION:Bags out by 11 AM.
+END:VEVENT
+BEGIN:VEVENT
+UID:flight-home@corrina-nola-birthday
+DTSTAMP:20260528T000540Z
+DTSTART;TZID=America/Chicago:20260608T115500
+DTEND;TZID=America/Chicago:20260608T121500
+SUMMARY:Flight home
+LOCATION:Louis Armstrong New Orleans Intl (MSY)
+DESCRIPTION:Until next time\, NOLA.
+END:VEVENT
+END:VCALENDAR
